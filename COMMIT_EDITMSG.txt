@@ -1,0 +1,24 @@
+Initial commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Dec 14 10:24:51 2025 +0000
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   Deposit wallet Address.md
+#	new file:   README.md
+#	new file:   chat history/2025-12-14_121107.png
+#	new file:   chat history/2025-12-14_121159.png
+#	new file:   chat history/2025-12-14_121218.png
+#	new file:   chat history/2025-12-14_121238.png
+#	new file:   chat history/2025-12-14_121259.png
+#	new file:   device info/photo_2@11-12-2025_11-48-29.jpg
+#	new file:   device info/photo_3@11-12-2025_11-49-02.jpg
+#	new file:   device info/photo_4@11-12-2025_11-49-19.jpg
+#	new file:   device info/photo_5@11-12-2025_11-50-07.jpg
+#
